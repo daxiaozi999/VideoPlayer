@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/VideoPlayer">
+        <file>icons/directory.png</file>
+        <file>icons/fullscreen.png</file>
+        <file>icons/label.png</file>
+        <file>icons/mute.png</file>
+        <file>icons/network.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/player.png</file>
+        <file>icons/replay.png</file>
+        <file>icons/setting.png</file>
+        <file>icons/volume.png</file>
+    </qresource>
+</RCC>
